@@ -1,2 +1,2 @@
-#HTML Editor created by Glenn
+# HTMLM Editor
 Download: https://github.com/F3DZ/HTML-Editor/releases
